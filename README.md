@@ -1,1 +1,8 @@
-# Ramdom-QR-Codes-
+# Ramdom QR Codes
+
+So many QR codes to see and discover their dark secrets.
+#
+
+- You can do:
+
+Upload your QR codes and Barcodes in discussions and they could be added.
